@@ -1,6 +1,4 @@
-Perfect 🤩 Buddy, so this repo is all about **OpenCV projects** including face detection, gender recognition, OCR, and even a fun **Invisible Cloak (Mr. X)** project. Let’s create a neat **README.md**:
 
-````markdown
 # 👁️ OpenCV Projects
 
 This repository contains a collection of **Computer Vision projects using OpenCV**.  

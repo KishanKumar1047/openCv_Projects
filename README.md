@@ -46,7 +46,7 @@ Each project demonstrates the power of image processing, facial recognition, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kishankumar1047/Opencv-Projects.git
+   git clone https://https://github.com/KishanKumar1047/openCv_Projects
    cd opencv-projects
 ````
 
